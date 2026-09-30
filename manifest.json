@@ -1,0 +1,13 @@
+{
+  "name": "CodePulse CCF — Elite Mission ED",
+  "short_name": "CodePulse",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#0b1220",
+  "orientation": "portrait",
+  "description": "Code Blue recorder and Chest Compression Fraction trainer for simulation and staff teaching.",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
